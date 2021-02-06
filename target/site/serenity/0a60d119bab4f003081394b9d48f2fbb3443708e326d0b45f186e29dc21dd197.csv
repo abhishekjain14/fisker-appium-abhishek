@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login Success","User can successfully log in","SUCCESS","2021-02-05T22:20:44.505201-08:00[America/Los_Angeles]","0.0","12.66"
+"Login Success","User fails logging in","SUCCESS","2021-02-05T22:20:57.373658-08:00[America/Los_Angeles]","0.0","12.15"
